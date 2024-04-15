@@ -15,6 +15,7 @@ int CoolClass::Calc(int a, int b)
     {
         return 2 * a;
     }
+        //hello
     else
     {
         return a + b;
